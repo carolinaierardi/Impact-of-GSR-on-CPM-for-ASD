@@ -3,7 +3,7 @@
 """
 Created on Sat Oct 15 15:26:55 2022
 
-@author: carolinaierardi
+@author: K19064197
 """
 
 #Script Name: data_processing_script.py
