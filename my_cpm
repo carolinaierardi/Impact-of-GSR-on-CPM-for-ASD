@@ -3,7 +3,7 @@
 """
 Created on Thu Jan 19 13:43:24 2023
 
-@author: carolinaierardi
+@author: K19064197
 """
 
 #Script Name: omy_cpm.py
